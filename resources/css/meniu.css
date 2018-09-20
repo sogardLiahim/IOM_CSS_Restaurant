@@ -1,0 +1,27 @@
+.food-title{
+ color:black;
+ font-size:14pt;
+ text-align:center;
+}
+
+.food-description{
+	margin-top:5px;
+	color:grey;
+	font-size:12pt;
+	text-align: center;
+}
+
+.food-weight{
+	margin-top:5px;
+	color:grey;
+	font-size:10pt;
+	text-align:center;
+}
+
+.food-price{
+	margin-top:5px;
+
+	color:green;
+	font-size:12pt;
+	text-align:center;
+}
